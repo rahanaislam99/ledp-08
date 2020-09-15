@@ -1,0 +1,39 @@
+
+.background {
+background: #736f6f0d;
+}
+
+.green {
+    height: 270px;
+    width: 510px;
+    background: green;
+    margin: auto;
+    overflow: hidden;
+    border-radius: 117px 0px 117px 0px;
+}
+.red {
+    height: 150px;
+    width: 150px;
+    border-radius: 59% 32% 59% 32%;
+    background: red;
+    margin-top: 53px;
+    margin-left: 180px;
+}
+
+.div2{
+    background: url('https://i.ibb.co/Zx9b1qW/images.jpg') no-repeat center center;
+    background-size: cover;
+
+}
+
+.blog{
+    width: 60%;
+    margin:40px auto;
+    text-align: center;
+    padding: 50px;
+    color: #fff;
+}
+.blog img {
+    border: 5px double;
+    border-radius: 10px;
+}
